@@ -1,0 +1,40 @@
+
+body{
+  background-image: url("bg.jpg");
+  background-size: 1400px 800px;
+  background-repeat: no-repeat;
+}
+.navbar{
+  height: 100px ;
+  width: 1366px ;
+  background-color: black;
+}
+.nav-link, .navbar-brand{
+  font-family: Verdana;
+  font-size: 20px;
+  color: white ;
+}
+.all-para{
+  font-size: 20px;
+  width: 900px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.link-color{
+  color: black;
+  text-decoration: underline;
+}
+.title{
+  color: black;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Mongolian Baiti";
+}
+.hori-line{
+  height: 10px;
+  width: 1366px;
+  background-color: black;
+}
+.mouseover:hover{
+  color: lightblue;
+}
